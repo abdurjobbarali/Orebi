@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-menu: #767676;
+ 
+}
