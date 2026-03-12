@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import Container from '../common/Container'
 import Flex from '../common/Flex'
 import Image from '../common/Image'
-import logo from '/src/assets/logo.svg'
+import logo from '/src/assets/Logo.svg'
 
 const Header = () => {
   return (
